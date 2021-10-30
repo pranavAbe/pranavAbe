@@ -1,4 +1,10 @@
-### Hi there 👋
+![Black Camo Banner](https://github.com/pranavAbe/pranavAbe/blob/main/assets/Black%20Camo%20Header.jpeg)
+
+<h1 align='center'><b> Hey, there! </b> 👋 </h1>
+<p align='center'> I'm Pranav. </p>
+<p align='center'><i> This page is yet to be completed, so hang in there </i> 😅 </p>
+<p align='center'> In the meanwhile, you can reach out to me on Discord at 📱 jakeRyder#5664 </p>
+<h1 align='center'><b> Have a great day/night! </b></h1>
 
 <!--
 **pranavAbe/pranavAbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
